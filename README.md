@@ -85,5 +85,4 @@ mvn spring-boot:run
 Ruthik — DevOps Engineer 
 [LinkedIn](https://linkedin.com/in/ruthik-varma-715a653b4) | [GitHub](https://github.com/Ruthikvugge)
 
-[LinkedIn](https://linkedin.com/in/ruthik-varma-715a653b4) | [GitHub](https://github.com/Ruthikvugge)
 
